@@ -1,0 +1,61 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenice Posts Widgets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-04 02:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.3\n"
+"X-Domain: xenice-posts-widgets"
+
+#: includes/Xenice_Widget_Posts.php:193
+msgid "Category:"
+msgstr ""
+
+#: includes/Xenice_Widget_Posts.php:198 includes/Xenice_Widget_Posts.php:201
+msgid "Default"
+msgstr ""
+
+#: includes/Xenice_Widget_Posts.php:224
+msgid "Display post thumbnail?"
+msgstr ""
+
+#: includes/Xenice_Widget_Hot_Posts.php:15
+msgid "Hot Posts"
+msgstr ""
+
+#: includes/Xenice_Widget_Recent_Posts.php:13
+msgid "Recent Posts"
+msgstr ""
+
+#. Description of the plugin
+msgid "Show recent posts, hot posts and sticky posts"
+msgstr ""
+
+#: includes/Xenice_Widget_Sticky_Posts.php:15
+msgid "Sticky Posts"
+msgstr ""
+
+#: includes/Xenice_Widget_Hot_Posts.php:16
+msgid "Xenice Hot Posts"
+msgstr ""
+
+#. Name of the plugin
+msgid "Xenice Posts Widgets"
+msgstr ""
+
+#: includes/Xenice_Widget_Recent_Posts.php:14
+msgid "Xenice Recent Posts"
+msgstr ""
+
+#: includes/Xenice_Widget_Sticky_Posts.php:17
+msgid "Xenice Sticky Posts"
+msgstr ""
