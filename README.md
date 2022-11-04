@@ -5,4 +5,4 @@
 
 [https://www.xenice.com/](https://www.xenice.com/)
 
-![xenice-post-widgets](https://raw.githubusercontent.com/xenice/xenice-post-widgets/master/screenshot.png)
+![xenice-post-widgets](https://raw.githubusercontent.com/xenice/xenice-posts-widgets/master/screenshot.png)
