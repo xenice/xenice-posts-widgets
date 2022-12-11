@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenice Posts Widgets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-28 02:02+0000\n"
+"PO-Revision-Date: 2022-11-04 02:08+0000\n"
+"Last-Translator: \n"
+"Language-Team: 简体中文\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.3\n"
+"X-Domain: xenice-posts-widgets"
+
+#: includes/Xenice_Widget_Posts.php:193
+msgid "Category:"
+msgstr "分类："
+
+#: includes/Xenice_Widget_Posts.php:198 includes/Xenice_Widget_Posts.php:201
+msgid "Default"
+msgstr "默认"
+
+#: includes/Xenice_Widget_Posts.php:224
+msgid "Display post thumbnail?"
+msgstr "显示文章缩略图？"
+
+#: includes/Xenice_Widget_Hot_Posts.php:15
+msgid "Hot Posts"
+msgstr "最热文章"
+
+#: includes/Xenice_Widget_Recent_Posts.php:13
+msgid "Recent Posts"
+msgstr "最近文章"
+
+#. Description of the plugin
+#, fuzzy
+#| msgid "Show recent posts, hot posts or sticky posts"
+msgid "Show recent posts, hot posts and sticky posts"
+msgstr "显示最近文章，最热文章，置顶文章"
+
+#: includes/Xenice_Widget_Sticky_Posts.php:15
+msgid "Sticky Posts"
+msgstr "置顶文章"
+
+#: includes/Xenice_Widget_Hot_Posts.php:16
+msgid "Xenice Hot Posts"
+msgstr "Xenice 热门文章"
+
+#. Name of the plugin
+msgid "Xenice Posts Widgets"
+msgstr "Xenice 文章小工具"
+
+#: includes/Xenice_Widget_Recent_Posts.php:14
+msgid "Xenice Recent Posts"
+msgstr "Xenice 最近文章"
+
+#: includes/Xenice_Widget_Sticky_Posts.php:17
+msgid "Xenice Sticky Posts"
+msgstr "Xenice 置顶文章"
