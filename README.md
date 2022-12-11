@@ -5,6 +5,6 @@
 
 ### Screenshots
 
-[https://www.xenice.com/](https://www.xenice.com/)
+[https://www.xenice.com/article/xenice-posts-widgets](https://www.xenice.com/article/xenice-posts-widgets)
 
 ![xenice-post-widgets](https://raw.githubusercontent.com/xenice/xenice-post-widgets/master/screenshot.png)

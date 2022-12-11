@@ -5,6 +5,6 @@
 
 ### 缩略图
 
-[https://cn.xenice.com/](https://cn.xenice.com/)
+[https://cn.xenice.com/article/xenice-posts-widgets](https://cn.xenice.com/article/xenice-posts-widgets)
 
 ![xenice-post-widgets](https://raw.githubusercontent.com/xenice/xenice-post-widgets/master/screenshot_cn.png)
