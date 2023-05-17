@@ -3,6 +3,6 @@
 
 ### 缩略图
 
-[https://www.xenice.com/article/xenice-posts-widgets](https://www.xenice.com/article/xenice-posts-widgets)
+[https://www.xenice.com/plugins/xenice-posts-widgets](https://www.xenice.com/plugins/xenice-posts-widgets)
 
 ![xenice-post-widgets](https://raw.githubusercontent.com/xenice/xenice-post-widgets/master/screenshot_cn.png)
